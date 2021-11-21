@@ -19,7 +19,7 @@ Some parameters can be changed to can apply it in an other system lenguages to w
 
 - Line 17: "Perfil" to "profile"
 
-<img scr="https://i.ibb.co/rcz0HBc/Perfil.jpg" title="capture code line 17">
+<img scr="https://i.ibb.co/wwPg4nw/Perfil.jpg" title="capture code line 17">
       
 - Line 24: "clave" to "content"
 
