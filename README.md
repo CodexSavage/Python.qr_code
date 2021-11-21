@@ -23,7 +23,7 @@ Some parameters can be changed to can apply it in an other system lenguages to w
       
 - Line 24: "clave" to "content"
 
-<img src="https://i.ibb.co/wpsC6L7/Clave.jpg" title="Capture code line 24">
+#<img src="https://i.ibb.co/wpsC6L7/Clave.jpg" title="Capture code line 24">
 
 
 
