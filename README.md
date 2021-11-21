@@ -21,11 +21,12 @@ Some parameters can be changed to can apply it in an other system lenguages to w
 
      <img sce="https://i.ibb.co/8bDWJyF/Perfil1.jpg" title="Capture code line 17"> 
 
-     <img scr="https://i.ibb.co/wwPg4nw/Perfil.jpg" title="Capture code line 17">
       
 - Line 24: "clave" to "content"
 
      <img src="https://i.ibb.co/wpsC6L7/Clave.jpg" title="Capture code line 24">
+     
+     <img scr="https://i.ibb.co/wwPg4nw/Perfil.jpg" title="Capture code line 17">
 
 
 
