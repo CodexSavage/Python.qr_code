@@ -19,6 +19,8 @@ Some parameters can be changed to can apply it in an other system lenguages to w
 
 - Line 17: "Perfil" to "profile"
 
+     <imag src = "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" title="Capture">
+
      <img sce="https://i.ibb.co/8bDWJyF/Perfil1.jpg" title="Capture code line 17"> 
 
 
