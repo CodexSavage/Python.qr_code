@@ -24,12 +24,12 @@
                    </ul>
                    <p>Some parameters can be changed to can apply it in an other system lenguages to works successfully. Changing the next expressions could executed it perfectly:</p>
                    <ol>
-                        <li>line 17: "Perfil" to "profile"
+                        <li>line 17: "Perfil" to "profile" <br>
                              <div align="center">
                                   <img src="https://i.ibb.co/8bDWJyF/Perfil1.jpg" alt="Capture profile" title="Code line 17">
-                             </div>
+                             </div><br>
                         </li>
-                        <li>Line 24: "clave" to "content"
+                        <li>Line 24: "clave" to "content"<br>
                              <div align="center">
                                    <img src="https://i.ibb.co/wpsC6L7/Clave.jpg" alt="Capture key" title="Code line 24">
                              </div>
