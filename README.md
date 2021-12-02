@@ -15,7 +15,7 @@
                         <li>Open-cv</li>
                         <li>Numpy</li>
                    </ul>
-                   <p>Installation scripts to every libraries respecttivily:</p>
+                   <p>Installation scripts to every libraries respectively:</p>
                    <ul>
                         <li>pip install subprocess</li>
                         <li>pip install wifi-qrcode-generator</li>
